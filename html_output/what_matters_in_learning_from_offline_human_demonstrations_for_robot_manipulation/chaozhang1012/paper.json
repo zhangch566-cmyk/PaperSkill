@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "paperName": "what_matters_in_learning_from_offline_human_demonstrations_for_robot_manipulation",
+  "title": "What Matters in Learning from Offline Human Demonstrations for Robot Manipulation",
+  "authors": [],
+  "year": 2021,
+  "venue": "arXiv",
+  "paperUrl": "https://arxiv.org/abs/2108.03298",
+  "participants": [
+    {
+      "name": "Chao Zhang",
+      "github": "zhangch566-cmyk"
+    }
+  ],
+  "topics": [
+    "robotics",
+    "imitation-learning",
+    "offline-reinforcement-learning"
+  ],
+  "skillVersion": "1.4.0",
+  "status": "review",
+  "entry": "index.html",
+  "version": "chaozhang1012",
+  "versionDate": "2026-10-12"
+}

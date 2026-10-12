@@ -1,0 +1,25 @@
+﻿:root {
+  --paper-scene-bg: #f5f8f0;
+  --paper-scene-light: #b8c9a7;
+  --paper-scene-dark: #76906a;
+  --paper-route: #92400e;
+  --paper-guidance: #27446e;
+  --paper-success: #228d5c;
+  --paper-failure: #c43f52;
+  --paper-emphasis: #f07e47;
+}
+
+.scene-mini {
+  width: 100%;
+  min-height: 140px;
+  padding: 18px 22px;
+  background: #fff8f2;
+  border: 1px solid rgba(240, 126, 71, 0.34);
+  border-radius: 12px;
+  color: #21324a;
+}
+.scene-mini-kicker { color: #f07e47; font-size: 0.82rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
+.scene-mini-title { margin-top: 4px; font-size: 1.25rem; font-weight: 800; }
+.scene-mini-bars { display: flex; align-items: end; gap: 8px; height: 48px; margin: 12px 0 8px; }
+.scene-mini-bars span { display: block; width: 18px; min-height: 8px; background: #f07e47; border-radius: 4px 4px 0 0; }
+.scene-mini-detail { color: #68778f; font-size: 0.9rem; }
